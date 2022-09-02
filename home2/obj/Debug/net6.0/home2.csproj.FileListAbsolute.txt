@@ -1,0 +1,15 @@
+C:\Users\Акелла\home_7\home2\bin\Debug\net6.0\home2.exe
+C:\Users\Акелла\home_7\home2\bin\Debug\net6.0\home2.deps.json
+C:\Users\Акелла\home_7\home2\bin\Debug\net6.0\home2.runtimeconfig.json
+C:\Users\Акелла\home_7\home2\bin\Debug\net6.0\home2.dll
+C:\Users\Акелла\home_7\home2\bin\Debug\net6.0\home2.pdb
+C:\Users\Акелла\home_7\home2\obj\Debug\net6.0\home2.csproj.AssemblyReference.cache
+C:\Users\Акелла\home_7\home2\obj\Debug\net6.0\home2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Акелла\home_7\home2\obj\Debug\net6.0\home2.AssemblyInfoInputs.cache
+C:\Users\Акелла\home_7\home2\obj\Debug\net6.0\home2.AssemblyInfo.cs
+C:\Users\Акелла\home_7\home2\obj\Debug\net6.0\home2.csproj.CoreCompileInputs.cache
+C:\Users\Акелла\home_7\home2\obj\Debug\net6.0\home2.dll
+C:\Users\Акелла\home_7\home2\obj\Debug\net6.0\refint\home2.dll
+C:\Users\Акелла\home_7\home2\obj\Debug\net6.0\home2.pdb
+C:\Users\Акелла\home_7\home2\obj\Debug\net6.0\home2.genruntimeconfig.cache
+C:\Users\Акелла\home_7\home2\obj\Debug\net6.0\ref\home2.dll
